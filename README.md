@@ -24,8 +24,8 @@ npm install
 ```
 
 3. Create and add values to .env.local
-   Create in the root of your project a file and name it .env.local
-   Add the following values:
+   - Create in the root of your project a file and name it .env.local
+   - Add the following values:
 
 ```
 GitHub_ID=your_value_here
